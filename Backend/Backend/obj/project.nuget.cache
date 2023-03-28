@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7nFku165MXUjKI6ecuQNXdfegItDs4E2R6nGmNcZchKSLu1tKXbdIyalVFNMMKD07mwd9dwmkET8GuZl1DzhlQ==",
+  "dgSpecHash": "Jo36YJnl0KYcs8NAfo8PuuHsENksh94pJLLaQ+Jp+F/dYu5drpcjaqUs8Yt/V44LYI4VQI1TYDOJeSXY5EPpDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javie\\Desktop\\Backend\\Backend\\Backend.csproj",
+  "projectFilePath": "D:\\Programación\\Repositorios\\API_NET_CORE_6\\Backend\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javie\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
